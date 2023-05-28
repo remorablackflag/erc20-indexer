@@ -1,3 +1,25 @@
+# Solution included
+
+This repo contains the solution for the challenges described bellow.
+
+### **Features**:
+
+- connect / disconnet wallet
+- detect account change
+- original input field is still working while wallet is connected
+- minor UI modifications
+- proper status messages before, after and during loading data
+- balance fraction digits limited to 10
+- error popup on invalid input address
+- error popup on query failure
+- ENS support
+
+---
+
+.
+
+---
+
 # Simple ERC-20 Indexer
 
 This is an skeleton app that uses the Alchemy SDK rigged to Alchemy's Enhanced APIs in order to display all of an address's ERC-20 token balances.
